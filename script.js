@@ -89,7 +89,7 @@ function no() {
 }
 
 function yes() {
-  if (counter >= 3) {
+  if (counter >= 1) {
     let model = document.getElementById("model2");
     let model2 = document.getElementById("model");
     let sadMusic = document.getElementById("sadMusic");
